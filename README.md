@@ -7,6 +7,7 @@ A curated collection of the best free construction calculators for contractors, 
 | Calculator | Use Case | Link |
 |---|---|---|
 | Concrete Calculator | Cubic yards for slabs, footings, walls | [Use Free →](https://builtrighthq.com/tools/concrete-calculator) |
+| Concrete Calculator Hub | Free concrete bag, volume, cost, and ready-mix comparison calculators | [Use Free](https://concreteestimatorhub.com/) |
 | Drywall Calculator | Sheets, compound, tape, screws | [Use Free →](https://builtrighthq.com/tools/drywall-calculator) |
 | Paint Calculator | Gallons with door/window cutouts | [Use Free →](https://builtrighthq.com/tools/paint-calculator) |
 | Gravel Calculator | Tons for driveways, drainage, fill | [Use Free →](https://builtrighthq.com/tools/gravel-calculator) |
