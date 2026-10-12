@@ -1,8 +1,11 @@
 # Free Construction Calculators — 2026 Directory
 
+
 A curated collection of the best free construction calculators for contractors, builders, and DIYers.
 
+
 ## Material Calculators
+
 
 | Calculator | Use Case | Link |
 |---|---|---|
@@ -14,8 +17,11 @@ A curated collection of the best free construction calculators for contractors, 
 | Board Foot Calculator | Lumber pricing and ordering | [Use Free →](https://builtrighthq.com/tools/board-foot-calculator) |
 | Brick Calculator | Bricks and mortar for walls | [Use Free →](https://builtrighthq.com/tools/brick-calculator) |
 | Rebar Calculator | Rebar quantity and spacing | [Use Free →](https://builtrighthq.com/tools/rebar-calculator) |
+| SiteCals | 204 free construction calculators (concrete, lumber, roofing, electrical, plumbing, HVAC and more) | [Use Free →](https://sitecals.com) |
+
 
 ## Structural Calculators
+
 
 | Calculator | Use Case | Link |
 |---|---|---|
@@ -26,7 +32,9 @@ A curated collection of the best free construction calculators for contractors, 
 | Stair Calculator | Rise, run, stringer layout | [Use Free →](https://builtrighthq.com/tools/stair-calculator) |
 | Paver Calculator | Pavers, sand base, edge restraint | [Use Free →](https://builtrighthq.com/tools/paver-calculator) |
 
+
 ## Electrical & HVAC
+
 
 | Calculator | Use Case | Link |
 |---|---|---|
@@ -35,15 +43,20 @@ A curated collection of the best free construction calculators for contractors, 
 | CFM Calculator | Airflow requirements | [Use Free →](https://builtrighthq.com/tools/cfm-calculator) |
 | Amp Calculator | Amperage from watts/volts | [Use Free →](https://builtrighthq.com/tools/amp-calculator) |
 
+
 ## Free Templates
+
 
 - [Contractor Invoice Template](https://builtrighthq.com/templates/contractor-invoice)
 - [Contractor Proposal Template](https://builtrighthq.com/templates/contractor-proposal)
 - [Job Costing Spreadsheet](https://builtrighthq.com/templates/job-costing-spreadsheet)
 
+
 ## State Licensing Guides
 
+
 All 50 states + DC: [Browse at BuiltRight HQ](https://builtrighthq.com)
+
 
 ---
 *Maintained by [BuiltRight HQ](https://builtrighthq.com)*
